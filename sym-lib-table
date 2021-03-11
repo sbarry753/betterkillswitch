@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name betterkillswitch)(type Legacy)(uri /home/ghaack/projects/betterkillswitch/betterkillswitch.lib)(options "")(descr ""))
+  (lib (name betterkillswitch-rescue)(type Legacy)(uri ${KIPRJMOD}/betterkillswitch-rescue.lib)(options "")(descr ""))
+)
