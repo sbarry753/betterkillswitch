@@ -19,7 +19,7 @@ U 1 1 602233B4
 P 7450 3250
 F 0 "K1" V 6883 3250 50  0000 C CNN
 F 1 "MainRelay" V 6974 3250 50  0000 C CNN
-F 2 "Relay_THT:Relay_SPST_Finder_32.21-x300" H 8720 3220 50  0001 C CNN
+F 2 "" H 8720 3220 50  0001 C CNN
 F 3 "http://gfinder.findernet.com/assets/Series/355/S32EN.pdf" H 7450 3250 50  0001 C CNN
 	1    7450 3250
 	0    1    1    0   
@@ -411,12 +411,12 @@ Connection ~ 7800 3050
 Wire Wire Line
 	7800 3050 7900 3050
 $Comp
-L Connector:Conn_01x02_Female J?
+L Connector:Conn_01x02_Female J2
 U 1 1 604C06B3
 P 7500 1900
-F 0 "J?" H 7528 1876 50  0000 L CNN
+F 0 "J2" H 7528 1876 50  0000 L CNN
 F 1 "Conn_01x02_Female" H 7528 1785 50  0000 L CNN
-F 2 "" H 7500 1900 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7500 1900 50  0001 C CNN
 F 3 "~" H 7500 1900 50  0001 C CNN
 	1    7500 1900
 	0    1    -1   0   
